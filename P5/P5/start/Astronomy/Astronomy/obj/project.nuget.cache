@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "oFQ3AvnpV23A3AstrD0Ntiy09HE3SuDA8KjC76sG70JfzAdACAZFAfquBck0JM0ipe2veI5Oqow8+SqYGsyAGw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Angel\\source\\repos\\P5\\start\\Astronomy\\Astronomy\\Astronomy.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "La versión de la plataforma no está presente para una o varias plataformas de destino, aunque se haya especificado una plataforma: net8.0-android, net8.0-ios, net8.0-maccatalyst"
+    }
+  ]
+}
